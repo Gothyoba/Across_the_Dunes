@@ -1,2 +1,3 @@
-# Across_the_Dunes
-A Dunefolk Campaign
+# Across the Dunes
+
+A Dunefolk Campaign.
